@@ -35,10 +35,15 @@
 	  "name": "Animated Heading Page",
 	  "link": "Animated Heading Page/index.html"
   },
+	{	
+	"name: Animated Hover Menu",
+	"link: Animated Hover Menu/index.html" 
+},
   {
 	  "name": "Animated Loaders",
 	  "link": "Animated Loaders/index.html"
   },
+	
   {
     "name": "Animated Login Form",
     "link": "Animated Login Form/index.html"
